@@ -1,4 +1,4 @@
-# Dynasty's Discord Rich Presence
+# Dynasty's Discord Rich Presence - SOON
 
 With this program you can create a custom Discord Rich Presence (aka status).
 
@@ -6,7 +6,7 @@ Note: Discord already has it's own build-in Rich Presence, this is just allowing
 
 ## Installation
 * Have the [Discord App](https://discord.com/download) open.
-* [Download](https://github.com/DynastyTeam/DynastyRichPresence/archive/refs/heads/main.zip) and run the program.
+* [Download](https://github.com/DynastyTeam/DynastyDiscordRichPresence/archive/refs/heads/main.zip) and run the program.
 * Set your custom status.
 * Press start.
 * All set!.
